@@ -1,0 +1,119 @@
+body{
+    margin:0;
+}
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 30px;
+}
+p{
+    color:gray;
+    margin-bottom: 30px;
+    line-height: 24px;
+}
+img{
+    width:70%;
+    border-radius: 10%;
+}
+.style-color{
+    color:orange;
+}
+.flexproperty{
+    display:flex;
+    margin: 5%;
+}
+.half-width{
+    width: 50%;
+}
+.text-area p{
+    margin-top: 40px;
+}
+.border-slice{
+    border-left: 3px solid;
+    border-image: linear-gradient(red,red);
+    border-image-slice: 1;
+}
+.img-area{
+    margin-left: 15%;
+}
+.button-design{
+    text-decoration: none;
+    padding: 10px 25px;
+    background-color: rgb(243, 102, 102);
+    color:white;
+    border-radius: 6px;
+}
+.section-two h1{
+    text-align: center;
+    font-weight: 1200;
+}
+.background-design{
+    width:33%;
+    margin:1%;
+    border-radius:5%;
+    padding: 30px;
+}
+.background-design img{
+    width:50%;
+}
+.maindiv h1{
+    text-align:left;
+}
+.mision{
+    background-color: rgb(234, 235, 188);
+}
+.vision{
+    background-color: rgb(220, 236, 207);
+}
+.goal{
+    background-color: rgb(234, 211, 250);
+}
+/* third seciton */
+.bgone{
+    background-image:url(/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 200px;
+}
+.area-img img{
+    width: 80%;
+    height: 90%;
+}
+.area-text{
+    width:60%;
+    padding-right: 5%;
+}
+.bgtwo{
+    background-image: url(/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 90% 96%;
+    background-size: 130px;
+}
+/* section four */
+.sectionfour h1{
+    text-align: center;
+}
+.formbox{
+    width:40%;
+    box-shadow: 5px 5px 20px rgb(223, 171, 103);
+    align-content: center;
+    background-image: linear-gradient(rgb(228, 228, 228), rgb(253, 231, 231));
+    text-align: center; 
+}
+input{
+    margin:8px;
+    background-color: rgb(245, 233, 210);
+}
+button{
+    margin: 40px 50px;
+}
+/* Footer */
+footer{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    color:white;
+    padding:10px;
+}
+footer h1{
+    font-family: 'Lobster', cursive;
+}
