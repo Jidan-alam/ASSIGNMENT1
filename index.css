@@ -70,7 +70,7 @@ img{
 }
 /* third seciton */
 .bgone{
-    background-image:url(/images/shapes/shape-1.png);
+    background-image:url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: left center;
     background-size: 200px;
@@ -84,7 +84,7 @@ img{
     padding-right: 5%;
 }
 .bgtwo{
-    background-image: url(/images/shapes/shape-1.png);
+    background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: 90% 96%;
     background-size: 130px;
